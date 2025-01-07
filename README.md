@@ -22,7 +22,6 @@ This repository contains coursework, assignments, and projects for the **Fall 20
 - 🔒 Encapsulation
 - 🧬 Inheritance
 - 🎭 Polymorphism
-- 🔍 Abstraction
 - 📁 File Handling
 - ⚠️ Exception Handling
 
@@ -30,7 +29,6 @@ This repository contains coursework, assignments, and projects for the **Fall 20
 - 🧱 Arrays and Linked Lists
 - 📏 Stacks and Queues
 - 🌲 Trees (Binary, AVL, BST)
-- 🔗 Graphs (DFS, BFS, etc.)
 - 📊 Sorting and Searching Algorithms
 - 🔑 Hashing Techniques
 
