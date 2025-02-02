@@ -1,6 +1,6 @@
 # 🎓 Fall 2024-2025 - Object-Oriented Programming (OOPs) and Data Structures (DS)
 
-Welcome to the **Fall 2023** coursework repository for **Object-Oriented Programming (OOPs)** and **Data Structures (DS)**! This repository contains a collection of assignments, projects, and resources aimed at mastering key concepts in software development.
+Welcome to the **Fall 2024-2025** coursework repository for **Object-Oriented Programming (OOPs)** and **Data Structures (DS)**! This repository contains a collection of assignments, projects, and resources aimed at mastering key concepts in software development.
 
 ---
 
